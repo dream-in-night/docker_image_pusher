@@ -7,3 +7,4 @@ ghcr.io/gurucomputing/headscale-ui
 --platform=linux/arm64 xiaoyaliu/alist
 tailscale/tailscale
 fredliang/derper
+headscale/headscale
