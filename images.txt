@@ -1,6 +1,8 @@
 #支持私库
 tailscale/tailscale
 fredliang/derper
+headscale/headscale
+ghcr.io/gurucomputing/headscale-ui
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 tailscale/tailscale
