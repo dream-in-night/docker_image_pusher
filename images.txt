@@ -4,4 +4,4 @@ headscale/headscale:latest-alpine
 #--platform=linux/arm64 xiaoyaliu/alist
 #tailscale/tailscale
 #fredliang/derper
-#headscale/headscale:0.23.0-alpha12
+#headscale/headscale:0.23.0-alpha3
