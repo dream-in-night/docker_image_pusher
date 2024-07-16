@@ -1,7 +1,6 @@
 #支持私库
-headscale/headscale:latest-alpine
+headscale/headscale:0.23.0-alpha3
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #tailscale/tailscale
 #fredliang/derper
-#headscale/headscale:0.23.0-alpha3
