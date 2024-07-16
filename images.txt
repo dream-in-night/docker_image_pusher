@@ -1,11 +1,7 @@
 #支持私库
-tailscale/tailscale
-fredliang/derper
-headscale/headscale:0.23.0-alpha12
-ghcr.io/gurucomputing/headscale-ui
-tailscale/tailscale:latest-alpine
+headscale/headscale:latest-alpine
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-tailscale/tailscale
-fredliang/derper
-headscale/headscale:0.23.0-alpha12
+#--platform=linux/arm64 xiaoyaliu/alist
+#tailscale/tailscale
+#fredliang/derper
+#headscale/headscale:0.23.0-alpha12
