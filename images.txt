@@ -1,5 +1,5 @@
 #支持私库
-amwpfiqvy/headscale-ui:latest
+ifargle/headscale-webui:v0.6.2
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
