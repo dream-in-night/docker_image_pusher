@@ -1,5 +1,6 @@
 #支持私库
-golang:latest
+#golang:latest
+ubuntu:20.04
 # yangchuansheng/derper:latest
 #ifargle/headscale-webui:v0.6.1
 
