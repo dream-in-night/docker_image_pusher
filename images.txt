@@ -1,5 +1,6 @@
 #支持私库
-ifargle/headscale-webui:v0.6.1
+yangchuansheng/derper:latest
+#ifargle/headscale-webui:v0.6.1
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
