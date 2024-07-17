@@ -1,5 +1,6 @@
 #支持私库
-yangchuansheng/derper:latest
+golang:latest
+# yangchuansheng/derper:latest
 #ifargle/headscale-webui:v0.6.1
 
 #支持指定架构
