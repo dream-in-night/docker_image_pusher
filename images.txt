@@ -1,7 +1,8 @@
 #支持私库
 #golang:latest
+hausen1012/ip_derper
 #ubuntu:20.04
-yangchuansheng/derper:latest
+#yangchuansheng/derper:latest
 #ifargle/headscale-webui:v0.6.1
 
 #支持指定架构
