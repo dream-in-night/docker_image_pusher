@@ -1,6 +1,7 @@
 #支持私库
 #golang:latest
-hausen1012/ip_derper
+fredliang/derper
+#hausen1012/ip_derper
 #ubuntu:20.04
 #yangchuansheng/derper:latest
 #ifargle/headscale-webui:v0.6.1
