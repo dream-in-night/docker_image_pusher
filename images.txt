@@ -1,6 +1,7 @@
 #支持私库
+rancher/rancher
 #golang:latest
-fredliang/derper
+#fredliang/derper
 #hausen1012/ip_derper
 #ubuntu:20.04
 #yangchuansheng/derper:latest
