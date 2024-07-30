@@ -10,7 +10,7 @@ env:
   ALIYUN_REGISTRY: "registry.cn-hangzhou.aliyuncs.com"
   ALIYUN_NAME_SPACE: "docker_image_pusher2"
   ALIYUN_REGISTRY_USER: "yazer92"
-  ALIYUN_REGISTRY_PASSWORD: "yazer92.top"
+  ALIYUN_REGISTRY_PASSWORD: "0805zeze"
 
 jobs:
 
