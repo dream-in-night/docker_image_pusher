@@ -1,5 +1,6 @@
 #支持私库
-rancher/rancher
+sophgo/tpuc_dev:v3.4-cuda
+# rancher/rancher
 #golang:latest
 #fredliang/derper
 #hausen1012/ip_derper
