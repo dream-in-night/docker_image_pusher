@@ -1,5 +1,6 @@
 #支持私库
-sophgo/tpuc_dev:v3.2-base-20240531
+# sophgo/tpuc_dev:v3.2-base-20240531
+sophgo/tpuc_dev:v3.4-cuda
 # rancher/rancher
 #golang:latest
 #fredliang/derper
