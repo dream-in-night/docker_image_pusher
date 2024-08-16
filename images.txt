@@ -1,5 +1,6 @@
 #支持私库
-mongo:4.4.29
+sickcodes/docker-osx:latest
+# mongo:4.4.29
 # johngong/baidunetdisk
 # sophgo/tpuc_dev:v3.2-base-20240531
 # sophgo/tpuc_dev:v3.4-cuda
