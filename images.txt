@@ -1,5 +1,6 @@
 #支持私库
-sickcodes/docker-osx:auto
+colmap/colmap:latest
+# sickcodes/docker-osx:auto
 # sickcodes/docker-osx:latest
 # mongo:4.4.29
 # johngong/baidunetdisk
