@@ -1,5 +1,5 @@
 #支持私库
-nuclio/controller:stable-amd64
+nuclio/controller:0.7.1-amd64
 # nuclio/dashboard:stable-amd64
 # quay.io/nuclio/handler-builder-python-onbuild:1.13.0-amd64
 # openvino/ubuntu20_runtime:2022.3.0
