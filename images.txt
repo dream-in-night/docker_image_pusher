@@ -1,5 +1,5 @@
 #支持私库
-gcr.io/iguazio/alpine
+gcr.io/iguazio/alpine:3.17
 # colmap/colmap:latest
 # sickcodes/docker-osx:auto
 # sickcodes/docker-osx:latest
