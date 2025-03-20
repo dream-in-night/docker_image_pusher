@@ -1,5 +1,6 @@
 #支持私库
-colmap/colmap:latest
+gcr.io/iguazio/alpine
+# colmap/colmap:latest
 # sickcodes/docker-osx:auto
 # sickcodes/docker-osx:latest
 # mongo:4.4.29
