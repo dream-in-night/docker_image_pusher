@@ -1,5 +1,6 @@
 #支持私库
-fields/office-converter
+redis:latest
+# fields/office-converter
 # nuclio/controller:0.7.1-amd64
 # nuclio/dashboard:stable-amd64
 # quay.io/nuclio/handler-builder-python-onbuild:1.13.0-amd64
